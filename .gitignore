@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs gerados
+runs/
+#reports/*.md
+reports/figures/
+
+# OS/Editor
+.vscode/
+.DS_Store

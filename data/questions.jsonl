@@ -1,0 +1,96 @@
+{"qid": "Q0001", "question": "Qual é o prazo para devolução?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0002", "question": "Posso devolver um produto aberto? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0003", "question": "Posso trocar um produto depois de quantos dias? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0004", "question": "Qual é o prazo para devolução?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0005", "question": "Como funciona arrependimento de compra?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0006", "question": "Qual é o prazo para devolução?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0007", "question": "Posso trocar um produto depois de quantos dias? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0008", "question": "Qual é o prazo para devolução? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0009", "question": "Como funciona arrependimento de compra? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0010", "question": "Como funciona arrependimento de compra? Pode me ajudar?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0011", "question": "Qual é o prazo para devolução? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0012", "question": "Como funciona arrependimento de compra? Pode me ajudar?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0013", "question": "Posso devolver um produto aberto? Por favor.", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0014", "question": "Posso trocar um produto depois de quantos dias? Pode me ajudar?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0015", "question": "Qual é o prazo para devolução?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0016", "question": "Como funciona arrependimento de compra?", "expected_doc_id": "RETURNS_001_V1", "topic": "returns"}
+{"qid": "Q0017", "question": "O que faço se o pedido atrasar? Pode me ajudar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0018", "question": "O que faço se o pedido atrasar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0019", "question": "Quando começa a contar o prazo de entrega?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0020", "question": "Quando começa a contar o prazo de entrega?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0021", "question": "O que faço se o pedido atrasar? Pode me ajudar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0022", "question": "Como rastrear meu pedido?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0023", "question": "Qual o prazo de entrega? Por favor.", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0024", "question": "O que faço se o pedido atrasar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0025", "question": "Como rastrear meu pedido?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0026", "question": "Quando começa a contar o prazo de entrega? Pode me ajudar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0027", "question": "Quando começa a contar o prazo de entrega? Pode me ajudar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0028", "question": "Como rastrear meu pedido? Pode me ajudar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0029", "question": "O que faço se o pedido atrasar? Por favor.", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0030", "question": "O que faço se o pedido atrasar?", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0031", "question": "Como rastrear meu pedido? Por favor.", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0032", "question": "Como rastrear meu pedido? Preciso disso hoje.", "expected_doc_id": "SHIPPING_001_V1", "topic": "shipping"}
+{"qid": "Q0033", "question": "PIX confirma em quanto tempo? Pode me ajudar?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0034", "question": "Quanto tempo demora para aprovar o cartão? Pode me ajudar?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0035", "question": "Em quantas vezes posso parcelar no cartão? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0036", "question": "Em quantas vezes posso parcelar no cartão? Pode me ajudar?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0037", "question": "PIX confirma em quanto tempo? Pode me ajudar?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0038", "question": "Em quantas vezes posso parcelar no cartão? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0039", "question": "Boleto demora quanto para compensar? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0040", "question": "PIX confirma em quanto tempo? Preciso disso hoje.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0041", "question": "PIX confirma em quanto tempo? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0042", "question": "Boleto demora quanto para compensar? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0043", "question": "Quanto tempo demora para aprovar o cartão? Pode me ajudar?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0044", "question": "PIX confirma em quanto tempo? Preciso disso hoje.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0045", "question": "Boleto demora quanto para compensar? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0046", "question": "Quanto tempo demora para aprovar o cartão? Preciso disso hoje.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0047", "question": "Em quantas vezes posso parcelar no cartão?", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0048", "question": "Em quantas vezes posso parcelar no cartão? Por favor.", "expected_doc_id": "PAYMENTS_001_V1", "topic": "payments"}
+{"qid": "Q0049", "question": "Garantia cobre mau uso? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0050", "question": "Qual é o prazo de garantia? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0051", "question": "O que preciso enviar para suporte? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0052", "question": "Como acionar a garantia?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0053", "question": "Qual é o prazo de garantia? Pode me ajudar?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0054", "question": "Como acionar a garantia?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0055", "question": "Como acionar a garantia? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0056", "question": "Garantia cobre mau uso? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0057", "question": "Qual é o prazo de garantia? Pode me ajudar?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0058", "question": "Garantia cobre mau uso?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0059", "question": "Como acionar a garantia? Por favor.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0060", "question": "Garantia cobre mau uso? Pode me ajudar?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0061", "question": "Garantia cobre mau uso?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0062", "question": "Como acionar a garantia? Preciso disso hoje.", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0063", "question": "Qual é o prazo de garantia?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0064", "question": "Como acionar a garantia? Pode me ajudar?", "expected_doc_id": "WARRANTY_001_V1", "topic": "warranty"}
+{"qid": "Q0065", "question": "Como corrigir o endereço do pedido?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0066", "question": "Como corrigir o endereço do pedido?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0067", "question": "Posso mudar o endereço depois de pagar? Preciso disso hoje.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0068", "question": "Posso mudar o endereço depois de pagar? Por favor.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0069", "question": "Como corrigir o endereço do pedido? Preciso disso hoje.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0070", "question": "Como corrigir o endereço do pedido? Pode me ajudar?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0071", "question": "O que faço se errei o endereço? Por favor.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0072", "question": "Como corrigir o endereço do pedido? Pode me ajudar?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0073", "question": "O que faço se errei o endereço? Pode me ajudar?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0074", "question": "O que faço se errei o endereço? Preciso disso hoje.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0075", "question": "Posso mudar o endereço depois de pagar? Por favor.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0076", "question": "Como corrigir o endereço do pedido?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0077", "question": "Consigo alterar dados após compra?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0078", "question": "Como corrigir o endereço do pedido? Por favor.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0079", "question": "Posso mudar o endereço depois de pagar?", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0080", "question": "Posso mudar o endereço depois de pagar? Por favor.", "expected_doc_id": "ACCOUNT_001_V1", "topic": "account"}
+{"qid": "Q0081", "question": "Onde vejo as especificações do produto?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0082", "question": "Preciso da dimensão exata do produto, onde encontro?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0083", "question": "Como confirmar compatibilidade? Pode me ajudar?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0084", "question": "Como tirar dúvida de voltagem? Por favor.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0085", "question": "Como confirmar compatibilidade? Preciso disso hoje.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0086", "question": "Como confirmar compatibilidade? Preciso disso hoje.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0087", "question": "Como tirar dúvida de voltagem? Por favor.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0088", "question": "Onde vejo as especificações do produto?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0089", "question": "Como tirar dúvida de voltagem? Pode me ajudar?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0090", "question": "Como tirar dúvida de voltagem? Preciso disso hoje.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0091", "question": "Como tirar dúvida de voltagem?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0092", "question": "Onde vejo as especificações do produto?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0093", "question": "Como tirar dúvida de voltagem? Pode me ajudar?", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0094", "question": "Onde vejo as especificações do produto? Por favor.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0095", "question": "Como confirmar compatibilidade? Por favor.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
+{"qid": "Q0096", "question": "Como tirar dúvida de voltagem? Por favor.", "expected_doc_id": "PRODUCT_001_V1", "topic": "product_info"}
